@@ -3,15 +3,7 @@ Olá! Este é um pequeno jogo da torre de Hanoi feito em java, este projeto foi 
 Caso queira experimentá-lo, fique a vontade para baixar o código.<br />
 
 <h1> Como jogar </h1>
-No game, será demonstrado os três pinos: <br />
-<br />
-Pino um:    Pino dois:    Pino dois:<br />
-1           0             0<br />
-2           0             0<br />
-3           0             0<br />
-4           0             0<br />
-
-O seu objetivo é conseguir colocar os números no pino do meio em sequência (1,2,3,4)
+No game, será demonstrado os três pinos. O seu objetivo é conseguir colocar os números no pino do meio em sequência (1,2,3,4)
 onde o número "1" esteja no topo e o número "4" esteja em baixo.<br />
 <h1>Regras</h1>
 -Movimentar apenas um número de cada vez. <br />
