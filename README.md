@@ -18,5 +18,5 @@ para qual pino deseja mover a peça (pino 1, pino 2 ou pino 3). Lembrando que de
 Fique a vontade para testar e se divertir, caso encontre algum problema ou bug com o código, não se acanhe e me informe<br />
 todo feedback é bem vindo. <br />
 <br />
-E-mail: ismaelv161@gmail.com
+E-mail: ismaelv161@gmail.com <br />
 Muito obrigado!!
