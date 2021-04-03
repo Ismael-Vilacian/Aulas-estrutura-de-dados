@@ -13,6 +13,7 @@ public class desafioDePilhas {
     public static void main(String[] args) throws Exception{
       Scanner input = new Scanner(System.in);
       desafioDePilhas acesso =  new desafioDePilhas();
+      int contadorMovimento = 0;
       pilha pinoUm   = new pilha(4);
       pilha pinoDois = new pilha(4);
       pilha pinoTres = new pilha(4);
@@ -49,6 +50,14 @@ public class desafioDePilhas {
               System.out.println("################");
               System.out.println("# Voce venceu! #");
               System.out.println("################");
+              /*
+               Contador de jogadas realizadas
+               */
+              if(contadorMovimento == 15){
+                  System.out.println("\nParabens jogada perfeita, movimentos :"+contadorMovimento);
+              }else {
+                  System.out.println("\nNumero de movimentos : " + contadorMovimento);
+              }
               Thread.sleep(2000);
               break;
           }
@@ -89,7 +98,7 @@ public class desafioDePilhas {
           }
           
           
-          
+          contadorMovimento++;
       }
       
     }
