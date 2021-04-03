@@ -1,5 +1,5 @@
 # Aulas estrutura de dados
-Olá! Este foi um pequeno jogo da torre de Hanoi feito em java, este projeto foi construído com o intuito de estudar a estrutura das pilhas.<br />
+Olá! Este é um pequeno jogo da torre de Hanoi feito em java, este projeto foi construído com o intuito de estudar a estrutura das pilhas.<br />
 Caso queira experimentá-lo, fique a vontade para baixar o código.<br />
 
 <h1> Como jogar </h1>
