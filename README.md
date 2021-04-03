@@ -6,9 +6,9 @@ Caso queira experimentá-lo, fique a vontade para baixar o código.<br />
 No game, será demonstrado os três pinos. O seu objetivo é conseguir colocar os números no pino do meio em sequência (1,2,3,4) <br />
 onde o número "1" esteja no topo e o número "4" esteja em baixo.<br />
 <h1>Regras</h1>
--Movimentar uma só peça (disco) de cada vez. <br />
--Uma peça maior não pode ficar acima de uma menor. <br />
--Não é permitido movimentar uma peça que esteja abaixo de outra.<br />
+-Movimentar apenas um número de cada vez. <br />
+-Um número maior não pode ficar acima de um número menor. <br />
+-Não é permitido movimentar um número que esteja abaixo de outro.<br />
 (Regras apenas para esclarecimento, pois o código não permite que tais regras sejam violadas). <br />
 
 <h1>Jogabilidade</h1>
