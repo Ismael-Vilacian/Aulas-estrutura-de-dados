@@ -15,7 +15,7 @@ onde o número "1" esteja no topo e o número "4" esteja em baixo.<br />
 Você deve escolher o pino que você quer retirar o número (pino 1, pino 2 ou pino 3), e em seguida deve escolher<br />
 para qual pino deseja mover a peça (pino 1, pino 2 ou pino 3). Lembrando que deve se respeitar as regras acima.
 <h1>Últimas considerações</h1>
-Fique a vontade para testar e se divertir, caso encontre algum problema ou bug com o código, não se acanhe e me informe<br />
+Fique a vontade para testar e se divertir, caso encontre algum problema ou bug com o código, não se acanhe e me informe
 todo feedback é bem vindo. <br />
 <br />
 E-mail: ismaelv161@gmail.com <br />
